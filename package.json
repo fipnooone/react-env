@@ -1,17 +1,15 @@
 {
-  "name": "env",
-  "version": "1.0.0",
-  "description": "react-app-env",
-  "main": "Env.tsx",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "@types/node": "^18.7.11",
-    "@types/react": "^18.0.17",
-    "react": "^18.2.0",
-    "typescript": "^4.7.4"
-  }
+	"name": "env",
+	"version": "1.0.0",
+	"description": "react-app-env",
+	"main": "./src/index.ts",
+	"test": "echo \"Error: no test specified\" && exit 1",
+	"author": "fipnooone",
+	"license": "ISC",
+	"devDependencies": {
+		"@types/node": "^18.7.11",
+		"@types/react": "^18.0.17",
+		"react": "^18.2.0",
+		"typescript": "^4.7.4"
+	}
 }
