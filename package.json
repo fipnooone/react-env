@@ -1,6 +1,6 @@
 {
 	"name": "@fipnooone/react-env",
-	"version": "1.0.1",
+	"version": "1.0.3",
 	"description": "react-app-env",
 	"main": "./src/index.ts",
 	"author": "fipnooone",
