@@ -3,7 +3,8 @@
 	"version": "1.0.5",
 	"description": "react-app-env",
 	"main": "./dist/index.js",
-	"types": "./types",
+	"types": "./types/index.d.ts",
+	"type": "module",
 	"author": "fipnooone",
 	"license": "ISC",
 	"devDependencies": {
